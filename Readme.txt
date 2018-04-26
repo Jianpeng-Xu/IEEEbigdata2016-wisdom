@@ -1,5 +1,5 @@
 Description of data:
-1. The data used in this work is in folder ../data. 
+1. The data used in this work is in folder ./data. 
 2. There are two files in data file. 
 2.1 One is desClimateIndicesZscore.mat. This contains 12 known climate indices mentioned in the paper. These indices have been deseaonalized and standarized. 
 2.2 The other one is deseaonedMonthly_smallZscore.mat. This contains the following variables:
